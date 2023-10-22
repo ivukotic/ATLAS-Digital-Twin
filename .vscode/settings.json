@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "geo",
+            "database": "${workspaceFolder:ATLAS-Digital-Twin-1}/geometry_atlas.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
