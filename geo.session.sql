@@ -2,6 +2,9 @@
 -- SELECT * from LogVols where id=10001;
 -- SELECT DISTINCT parentTable
 -- from ChildrenPositions;
+-- SELECT *
+-- from ChildrenPositions
+-- where parentTable = 10;
 SELECT *
-from ChildrenPositions
-where parentTable = 10;
+from Shapes
+where id > 16636;
