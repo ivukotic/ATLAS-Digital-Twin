@@ -1,1 +1,2 @@
 usd-core
+pyvista[all]
